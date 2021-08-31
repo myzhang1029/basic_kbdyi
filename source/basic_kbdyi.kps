@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.107.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Yi Basic</Name>
+    <Copyright URL="">© 2008-2020 SIL International</Copyright>
+    <Author URL=""></Author>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\basic_kbdyi.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\basic_kbdyi.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\basic_kbdyi.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>welcome\welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Yi Basic</Name>
+      <ID>basic_kbdyi</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="ii">Sichuan Yi, Nuosu</Language>
+        <Language ID="nos">Eastern Nisu</Language>
+        <Language ID="nty">Mantsi (Yi)</Language>
+        <Language ID="yig">Wusa Nasu</Language>
+        <Language ID="ysn">Sani</Language>
+        <Language ID="smh">Samei</Language>
+        <Language ID="ywq">Wuding-Luquan Yi</Language>
+        <Language ID="nsd">Southern Nisu</Language>
+        <Language ID="nsv">Southwestern Nisu</Language>
+        <Language ID="ysd">Samatao (Yi)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
